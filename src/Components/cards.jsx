@@ -27,7 +27,7 @@ function Cards() {
       </div>
       <div className='border-solid border-2 border-green-500 rounded-lg flex gap-5  bg-slate-100'>
         <div className='p-3'>
-          <p>Total No. of Searches</p>
+          <p>Total No. o Searches</p>
           <p>34</p>
         </div>
         <div className='p-3 mt-1 text-white'>
