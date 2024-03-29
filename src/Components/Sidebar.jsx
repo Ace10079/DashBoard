@@ -10,7 +10,7 @@ function Sidebar() {
                         <li className=' hover:text-white cursor-pointer'>Dashboard</li>
                         <li className=' hover:text-white cursor-pointer'><Link to="/customer">Customer</Link></li>
                         <li className=' hover:text-white cursor-pointer'><Link to="/search">Search</Link></li>
-                        <li className=' hover:text-white cursor-pointer'>Solution</li>
+                        <li className=' hover:text-white cursor-pointer'><Link to="/solution">Solution</Link></li>
                         <li className=' hover:text-white cursor-pointer'><Link to="/admin">Admin</Link></li>
                     </ul>
                 </div>

@@ -9,7 +9,7 @@ function Table3() {
         <div className='bg-slate-100 border-solid border-2 rounded-lg ml-10' style={{ maxHeight: '400px', overflow: 'auto' }}>
             <div className='flex gap-96'>
                 <p className='p-2 font-bold text-2xl' >
-                    Recently Searched
+                    Disease & Solution
                 </p>
                 <div className='flex bg-white m-2 border rounded-lg'>
                     <div className='m-2'>

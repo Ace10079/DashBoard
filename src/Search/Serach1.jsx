@@ -2,6 +2,7 @@ import React from 'react'
 import Sidebar from '../Components/Sidebar'
 import Header from '../Components/Header'
 import Table3 from './Table3'
+import Table2 from '../Admin/Table2'
 
 function Serach1() {
   return (
@@ -16,7 +17,7 @@ function Serach1() {
                             <div><Header/></div>
                         </div>
                         <div className="">
-                            <div><Table3/></div>
+                            <div><Table2/></div>
                         </div>
                     </div>
                 </div>
